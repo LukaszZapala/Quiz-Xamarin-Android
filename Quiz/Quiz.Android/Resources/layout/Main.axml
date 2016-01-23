@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:minWidth="25px"
+    p1:minHeight="25px"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:background="#14385c"
+    p1:id="@+id/relativeLayout1">
+    <LinearLayout
+        p1:orientation="vertical"
+        p1:minWidth="25dp"
+        p1:minHeight="100dp"
+        p1:layout_width="match_parent"
+        p1:layout_height="wrap_content"
+        p1:layout_margin="10dp"
+        p1:layout_centerInParent="true"
+        p1:id="@+id/linearLayout1"
+        p1:paddingTop="10dp"
+        p1:paddingBottom="10dp"
+        p1:background="@drawable/strokestyle">
+        <Button
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/buttonStart"
+            p1:layout_marginBottom="10dp"
+            p1:layout_marginLeft="30dp"
+            p1:layout_marginRight="30dp"
+            p1:layout_marginTop="10dp"
+            p1:text="@string/buttonStart"
+            p1:background="@drawable/buttonshape" />
+        <Button
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/buttonEdit"
+            p1:layout_marginBottom="10dp"
+            p1:layout_marginLeft="30dp"
+            p1:layout_marginRight="30dp"
+            p1:layout_marginTop="10dp"
+            p1:text="@string/buttonEdit"
+            p1:background="@drawable/buttonshape" />
+        <Button
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/buttonRanking"
+            p1:layout_marginBottom="10dp"
+            p1:layout_marginLeft="30dp"
+            p1:layout_marginRight="30dp"
+            p1:layout_marginTop="10dp"
+            p1:text="@string/buttonRanking"
+            p1:background="@drawable/buttonshape" />
+        <Button
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/buttonClose"
+            p1:layout_marginBottom="10dp"
+            p1:layout_marginLeft="30dp"
+            p1:layout_marginRight="30dp"
+            p1:layout_marginTop="10dp"
+            p1:text="@string/buttonClose"
+            p1:background="@drawable/buttonshape" />
+    </LinearLayout>
+</RelativeLayout>

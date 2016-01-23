@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:orientation="horizontal"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/linearLayout1"
+    p1:padding="10dp">
+    <TextView
+        p1:textAppearance="?android:attr/textAppearanceLarge"
+        p1:layout_width="match_parent"
+        p1:layout_height="50dp"
+        p1:id="@+id/textViewBranchName"
+        p1:layout_weight="30"
+        p1:layout_marginBottom="10dp"
+        p1:layout_marginTop="10dp"
+        p1:layout_marginLeft="10dp"
+        p1:layout_marginRight="10dp"
+        p1:gravity="center"
+        p1:text="Large Text"
+        p1:textSize="24dp" />
+    <TextView
+        p1:textAppearance="?android:attr/textAppearanceMedium"
+        p1:layout_width="match_parent"
+        p1:id="@+id/textViewQuestionCount"
+        p1:layout_weight="70"
+        p1:layout_marginBottom="10dp"
+        p1:layout_marginTop="10dp"
+        p1:textColor="#FFD84C"
+        p1:layout_marginRight="10dp"
+        p1:layout_marginLeft="10dp"
+        p1:layout_height="50dp"
+        p1:gravity="center"
+        p1:text="600"
+        p1:textSize="20dp" />
+</LinearLayout>

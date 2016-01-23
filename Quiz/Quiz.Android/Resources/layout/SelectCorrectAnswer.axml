@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:minWidth="25px"
+    p1:minHeight="25px"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:background="#14385c">
+    <LinearLayout
+        p1:orientation="vertical"
+        p1:minWidth="25px"
+        p1:minHeight="25px"
+        p1:layout_width="match_parent"
+        p1:layout_height="wrap_content"
+        p1:layout_centerVertical="true">
+        <TextView
+            p1:text="@string/SelectCorrectAnswer"
+            p1:textAppearance="?android:attr/textAppearanceLarge"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:textSize="28dp"
+            p1:gravity="center"
+            p1:textColor="#FFD84C"
+            p1:layout_margin="10dp" />
+        <TextView
+            p1:textAppearance="?android:attr/textAppearanceLarge"
+            p1:layout_width="match_parent"
+            p1:layout_height="120dp"
+            p1:id="@+id/textViewQuestion"
+            p1:textColor="#FFFFFF"
+            p1:gravity="center"
+            p1:textSize="26dp"
+            p1:layout_marginLeft="10dp"
+            p1:layout_marginRight="10dp"
+            p1:layout_marginBottom="10dp"
+            p1:background="@drawable/strokestyle"
+            p1:padding="10dp" />
+        <RadioButton
+            p1:layout_width="match_parent"
+            p1:layout_height="30dp"
+            p1:id="@+id/radioButtonFirst"
+            p1:textColor="#17FF93"
+            p1:textSize="22dp"
+            p1:layout_margin="10dp"
+            p1:checked="true" />
+        <RadioButton
+            p1:layout_width="match_parent"
+            p1:layout_height="30dp"
+            p1:id="@+id/radioButtonSecond"
+            p1:textColor="#17FF93"
+            p1:textSize="22dp"
+            p1:layout_margin="10dp" />
+        <RadioButton
+            p1:layout_width="match_parent"
+            p1:layout_height="30dp"
+            p1:id="@+id/radioButtonThird"
+            p1:textColor="#17FF93"
+            p1:textSize="22dp"
+            p1:layout_margin="10dp" />
+        <RadioButton
+            p1:layout_width="match_parent"
+            p1:layout_height="30dp"
+            p1:id="@+id/radioButtonFourth"
+            p1:textColor="#17FF93"
+            p1:textSize="22dp"
+            p1:layout_margin="10dp" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#14385c">
+    <TextView
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewSelectBranch"
+        android:layout_margin="20dp"
+        android:text="@string/textViewSelectBranch"
+        android:gravity="center"
+        android:textSize="28dp"
+        android:layout_weight="1" />
+    <ListView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:id="@+id/listViewBranch"
+        android:background="@drawable/listviewstyle"
+        android:layout_margin="10dp"
+        android:layout_weight="8"
+        android:alpha="0.5" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:id="@+id/buttonAdd"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/buttonAdd"
+        android:background="@drawable/buttonshape"
+        android:visibility="gone" />
+</LinearLayout>

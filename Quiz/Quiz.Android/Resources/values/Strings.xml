@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Quiz</string>
+  <!--Main-->
+	<string name="buttonStart">Rozpocznij Quiz</string>
+  <string name="buttonEdit">Modyfikuj</string>
+  <string name="buttonRanking">Ranking</string>
+  <string name="buttonClose">Zamknij Quiz</string>
+  <string name="closeDialogTitle">Czy chcesz wyjść z aplikacji?</string>
+  <string name="closeDialogPositive">Tak</string>
+  <string name="closeDialogNegative">Nie</string>
+  <!--SelectBranch-->
+  <string name="textViewSelectBranch">Wybierz dziedzinę:</string>
+  <string name="buttonAdd">Dodaj</string>
+  <!--QuizSettings-->
+  <string name="textViewPlayerName">Podaj nazwe gracza:</string>
+  <string name="buttonPlay">Graj</string>
+  <!--Game-->
+  <string name="buttonNext">Następne</string>
+  <string name="buttonPrevious">Poprzednie</string>
+  <!--Score-->
+  <string name="textViewInfo">Zdobyłeś:</string>
+  <string name="buttonReturn">Powrót do menu</string>
+  <!--Add-->
+  <string name="textViewAddBranch">Nazwa nowej dziedziny: </string>
+  <string name="buttonCreate">Utwórz</string>
+  <!--AddQuestion-->
+  <string name="textViewQuestion">Pytanie:</string>
+  <string name="textViewAnswer">Odpowiedzi:</string>
+  <string name="buttonContinue">Dalej</string>
+  <!--HistoryList-->
+  <string name="textViewTop">TOP</string>
+  <!--SelectCorrectAnswer-->
+  <string name="SelectCorrectAnswer">Wybierz prawidłową odpowiedź na poniższe pytanie.</string>
+  <string name="AddRecordToDatabase">Czy napewno chcesz dodać rekord do bazy danych?</string>
+  <!--Database names-->
+  <string name="quizDatabaseName">Quiz.db</string>
+  <string name="historyDatabaseName">History.db</string>
+  <!--Toast-->
+  <string name="branchExsists">Dziedzina juz istnieje!</string>
+</resources>

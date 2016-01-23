@@ -1,0 +1,125 @@
+﻿Stolica Albanii to:; Tirana
+Tirana; Stambuł; Antalya; Ankara
+
+Stolica Cypru to:; Nikozja 
+Nikozja; Valletta; Rejkiawik; Kosowo
+
+Stolica Białorusi to:; Mińsk
+Mińsk; Oslo; Ryga; Harrachov
+
+Stolica Grecji to:; Ateny
+Ateny; Stambuł; Ankara; Olimp
+
+Stolica Turcji to:; Ankara
+Ankara; Warszawa; Stambuł; Antalya
+
+Stolica Litwy to:; Wilno
+Wilno; żadna z tych odpowiedzi; Skopje; Litwa
+
+Stolica Włoch to:; Rzym 
+Rzym; Bratysława; Florencja; Wenecja
+
+Stolica Łotwy to:; Ryga 
+Ryga; Dublin; Kair; Wilno
+
+Stolica Bułgarii to:; Sofia
+Sofia; Zagrzeb; Antalya; Sarajewo
+
+Stolica Francji to:; Paryż
+Paryż; Tallin; Madryt; Warszawa
+
+Stolica Wielkiej Brytanii to:; Londyn
+Londyn; Ryga; Manchester; Lwów
+
+Stolica Szwajcarii to:; Berno 
+Berno; Wiedeń; Sztokholm; Skopje
+
+Stolica Polski to:; Warszawa
+Warszawa; Wrocław; Kraków; Oslo
+
+Stolica Finlandii to:; Helsinki
+Helsinki; Oslo; Kopenhaga; Antalya
+
+Stolica Rosji to:; Moskwa
+Moskwa; Petersburg; Stambuł; Bukareszt
+
+Stolica Niemiec to:; Berlin
+Berlin; Borussia; Żadna z tych odpowiedzi; Lyon
+
+Stolica Rumunii to:; Bukareszt
+Bukareszt; Budapeszt; Ryga; Rumia
+
+Stolica Czech to:; Praga; 
+Praga; Warszawa; Oslo; Lizbona
+
+Stolica Ukrainy to:; Kijów
+Kijów; Hamburg; Lwów; Moskwa
+
+Stolica Holandii to:; Amsterdam
+Amsterdam; Rotterdam; Notre Dame; Haga
+
+Na jakim kontynencie znajdują się góry Apeniny?; Europa
+Europa; Afryka; Ameryka Północna; Azja
+
+Na jakim kontynencie są góry Himalaje?; Azja
+Australia; Azja; Ameryka Północna; Ameryka Południowa
+
+Przez jakie państwo przepływa rzeka Tamiza?; Wielka Brytania; 
+Francja; Irlandia; Wielka Brytania; Egipt
+
+Do jakich państw zaliczane są kraje: Szwecja, Norwegia, Finlandia, Dania i Islandia?; skandynawskie
+nadbałtyckie; skandynawskie; bałkańskie; nadwiślańskie
+
+Jakie góry oddzielają Europę i Azję?; Ural
+Karpaty; Alpy; Ural; Sudety
+
+Jakiego morza dotyka Estonia?; Morza Bałtyckiego
+Morza Karaibskiego; Morza Bałtyckiego; Morza Czarneg; Morza Czerwonego
+
+Największe miasto Europy to:; Moskwa
+Moskwa; Sztokholm; Londyn; Los Angeles
+
+Do jakiego państwa należą wyspy: Sardynia i Sycylia?; do Włoch
+do Polski; do Hiszpani; do Włoch; do ZSRR
+
+Przez jakie państwa przepływa rzeka Wilia?; przez Litwę i Białoruś
+przez Serbię Bułgarię Macedonię; przez Litwę i Białoruś; prze Ukraine; przez Grecje
+
+Na jakim kontynencie są góry Andy?; Ameryka Południowa
+Ameryka Południowa; Ameryka Północna; Azja; Europa
+
+Z jakimi państwami graniczy Litwa?; z Polską, Białorusią, Łotwą i Rosją
+z Polską, Białorusią, Łotwą i Rosją; z Łotwą, Estonią, Rosją i Ukrainą; Nie graniczy; z Rosją i Niemcami
+
+W jakim państwie znajdują się miasta: Lyon, Marsylia i Nicea?; we Francji
+we Francji; w Niemczech; w Hiszpanii; w Kanadzie
+
+Najludniejsze kraje świata to:; Chiny i Indie
+Rosja i USA; Chiny i Indie; Watykan i Cypr; Polska i Niemcy
+
+Największym miastem USA jest:; New Jork
+Chicago; New Jork; Waszyngton; Los Angeles
+
+Najdłuższa rzeka Łotwy to:; Dźwina
+Dźwina; Niemen; Wołga; Wisła
+
+Na jakim półwyspie leży Arabia Saudyjska; Arabskim
+Dekan; Arabskim; Skandynawskim; Helskim
+
+Do jakiego państwa należy Grenlandia?; do Dani
+do Dani; do Finlandii; do Wielkiej Brytanii; do Atlantydy
+
+Na jakim kontynencie leżą kraje: RPA, Sudan, Angola?; Afryka
+Australia ; Afryka; Azja; Europa
+
+Ile kontynentów jest na kuli ziemskiej?; 7
+160; 7; 8; 6
+
+Do krajów Beneluksu zaliczane są kraje:; Belgia, Lukseburg i Holandia
+Litwa, Łotwa i Estonia; Belgia, Lukseburg i Holandia; Ruminiia, Bułgaria, Mołdawia i Serbia; USA i Kanada
+
+Jakie miasto jest stolicą Gruzji?; Tbilisi; 
+Baku; Kowno; Tbilisi; Warszawa
+
+Na jakim morzu jest Kuba?; Karaibskim
+Bałtyckim; Norweskim; Śródzemnym; Karaibskim

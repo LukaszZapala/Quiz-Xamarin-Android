@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:minWidth="25px"
+    p1:minHeight="25px"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/relativeLayout1"
+    p1:background="#14385c"
+    p1:paddingBottom="20dp">
+    <LinearLayout
+        p1:orientation="vertical"
+        p1:minWidth="25dp"
+        p1:minHeight="100dp"
+        p1:layout_width="match_parent"
+        p1:layout_height="wrap_content"
+        p1:layout_margin="10dp"
+        p1:layout_centerInParent="true"
+        p1:background="@drawable/strokestyle"
+        p1:paddingBottom="20dp"
+        p1:paddingTop="20dp">
+        <TextView
+            p1:textAppearance="?android:attr/textAppearanceLarge"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/textViewBranch"
+            p1:layout_marginLeft="20dp"
+            p1:layout_marginRight="20dp"
+            p1:layout_marginTop="10dp"
+            p1:layout_marginBottom="10dp"
+            p1:text="@string/textViewAddBranch"
+            p1:textAlignment="center"
+            p1:gravity="center"
+            p1:textSize="30dp" />
+        <EditText
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/editTextName"
+            p1:layout_marginLeft="20dp"
+            p1:layout_marginRight="20dp"
+            p1:layout_marginTop="10dp"
+            p1:layout_marginBottom="10dp"
+            p1:gravity="center"
+            p1:textColor="#FFD84C" />
+        <Button
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/buttonCreate"
+            p1:layout_marginBottom="10dp"
+            p1:layout_marginLeft="30dp"
+            p1:layout_marginRight="30dp"
+            p1:layout_marginTop="20dp"
+            p1:text="@string/buttonCreate"
+            p1:background="@drawable/buttonshape" />
+    </LinearLayout>
+</RelativeLayout>
